@@ -22,7 +22,7 @@ Olá, mundo! Meu nome é Rafael!
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=ED8B00&center=true&vCenter=true&width=750&height=90&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Foco+em+Java+e+desenvolvimento+Backend;Construindo+uma+base+s%C3%B3lida+em+programa%C3%A7%C3%A3o" alt="Apresentação animada"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=ED8B00&center=true&vCenter=true&width=850&height=90&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Foco+em+Java+e+desenvolvimento+Backend;Construindo+uma+base+s%C3%B3lida+em+programa%C3%A7%C3%A3o" alt="Apresentação animada"/>
 
 </div>
 
