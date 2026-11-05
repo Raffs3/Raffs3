@@ -1,3 +1,4 @@
+
 <!-- CABEÇALHO -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ED8B00" alt="Cabeçalho laranja"/>
 
@@ -6,7 +7,7 @@
   <h3>BACKEND DEVELOPER &amp; CS STUDENT</h3>
 
   <samp>
-    Olá, pessoas! Meu nome é Rafael!
+    Olá, mundo! Meu nome é Rafael!
   </samp>
 
   <br><br>
