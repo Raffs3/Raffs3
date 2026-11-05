@@ -63,7 +63,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,git,docker,idea,vscode,postgres,postman,linux&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,git,docker,idea,vscode,postgres,postman,linux&perline=8&theme=dark" />
 </div>
 
 </details>
