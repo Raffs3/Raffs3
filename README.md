@@ -1,4 +1,3 @@
-
 <!-- CABEÇALHO -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ED8B00" alt="Cabeçalho laranja"/>
 
@@ -17,7 +16,7 @@
   <br><br>
 
   <!-- BARRIL ANIMADO -->
-  <img src="./barril_pixel_art_loop_fluido.gif" width="200" alt="Barril DKC animado em pixel art"/>
+  <img src="barril_pixel_art_loop_fluido.gif" width="200" alt="Barril DKC animado em pixel art"/>
 
   <br><br>
 
@@ -71,14 +70,14 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
 
-    <br>
+    <br><br>
 
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 
-    <br>
+    <br><br>
 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 
