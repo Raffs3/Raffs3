@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <img src="https://images.weserv.nl/?url=i.imgur.com/vH9Z3l5.jpg&w=200" width="200" alt="DK Barrel">
+  <img src="barril_pixel_art_loop_fluido.gif" width="200" alt="DK Barrel">
 </div>
 
 <br>
@@ -41,6 +41,15 @@
       </samp>
     </summary>
     <br>
+
+<div align="center">
+  <a href="https://github.com/Raffs3" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-2e3440?style=for-the-badge&logo=github&logoColor=fff" />
+  </a>
+</div>
+
+<br>
+
 <div align="center">
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raffs3&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raffs3&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raffs3&theme=tokyonight&utcOffset=-3) |
@@ -55,17 +64,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,py,git,docker,idea,vscode,postgres,postman,linux&perline=9" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" />
-  </a>
-  <a href="https://github.com/Raffs3" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-2e3440?style=for-the-badge&logo=github&logoColor=fff" />
-  </a>
 </div>
 
 </details>
