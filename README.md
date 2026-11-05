@@ -39,12 +39,6 @@ Meu foco é compreender os fundamentos da programação, desenvolver boas práti
 
 Acredito que a evolução vem da prática, da consistência e da capacidade de entender o que está por trás do código.
 
-<br>
-
-<div align="center">
-<a href="https://github.com/Raffs3"><img src="https://img.shields.io/badge/GitHub-2e3440?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub"/></a>
-</div>
-
 </details>
 
 <br>
@@ -59,16 +53,10 @@ Acredito que a evolução vem da prática, da consistência e da capacidade de e
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-
-<br><br>
-
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-
-<br><br>
-
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </div>
 
