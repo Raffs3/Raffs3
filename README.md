@@ -33,11 +33,13 @@ Olá, mundo! Meu nome é Rafael!
 
 <br>
 
-Sou estudante de Ciência da Computação e estou construindo minha trajetória rumo ao desenvolvimento Backend com Java.
+Sou estudante de Ciência da Computação, com foco em construir minha carreira no desenvolvimento Backend com Java.
 
-Meu foco é compreender os fundamentos da programação, desenvolver boas práticas e aprender a criar soluções robustas e bem estruturadas.
+Atualmente, estou aprofundando meus conhecimentos em fundamentos da programação, orientação a objetos, controle de versão com Git e GitHub, além de conceitos de bancos de dados e sistemas operacionais.
 
-Acredito que a evolução vem da prática, da consistência e da capacidade de entender o que está por trás do código.
+Busco desenvolver uma base técnica sólida, valorizando código legível, boas práticas e a compreensão dos problemas antes de buscar soluções. Meu objetivo é transformar o conhecimento adquirido em projetos próprios e evoluir continuamente como desenvolvedor.
+
+Estou aberto a oportunidades de estágio em desenvolvimento de software, nas quais possa contribuir, aprender com profissionais experientes e crescer por meio de desafios reais.
 
 </details>
 
